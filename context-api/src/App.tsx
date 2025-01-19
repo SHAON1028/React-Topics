@@ -22,8 +22,7 @@ function App() {
               <Heading level={4}>Sub-sub-heading</Heading>
               <Heading level={4}>Sub-sub-heading</Heading>
               <Heading level={4}>Sub-sub-heading</Heading>
-              <Heading level={4}>Sub-sub-heading</Heading>
-              <Heading level={4}>Sub-sub-heading</Heading>
+            
             </Section>
           </Section>
         </Section>
